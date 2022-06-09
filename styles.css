@@ -1,0 +1,15 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    color:rgb(138, 138, 138);
+    margin: .25rem;
+}
+#header{
+    margin: 4rem;
+    text-align: center;
+}
+.profile-pic{
+    border-radius: 50%;
+    margin: 3rem 0;
+}
